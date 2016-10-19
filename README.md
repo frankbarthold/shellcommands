@@ -23,3 +23,8 @@
 
 \# Datenbank anlegen lassen
 >path/to/project/vendor/bin/doctrine-module orm:schema-tool:create
+
+\# NPM Update
+>npm install -g npm
+
+
