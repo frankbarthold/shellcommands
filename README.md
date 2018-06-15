@@ -31,6 +31,7 @@
 \# Make Git-Bash available in CMD Commandline Prompt via bat-Script
 
 \# Create git-bash.bat and this Script to your PATH-Env-Var
+
 @echo off
 
 REM "FIT Your Path to sh.exe in yout git-bash program-folder
